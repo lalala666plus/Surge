@@ -1,0 +1,38 @@
+DOMAIN,basejumper.apple.com
+# > 播客
+DOMAIN-SUFFIX,podcasts.apple.com
+# > apple下载
+DOMAIN,ns.itunes.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,updates.cdn-apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN,hls.itunes.apple.com.mwcname.com
+DOMAIN,hls.itunes.apple.com.mwcname.com.cd23f.com
+DOMAIN,k128-iosapps-all.gslb.ksyuncdn.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,iosapps.itunes.g.aaplimg.com
+DOMAIN,iosapps-cn-lb.dl-apple.com.akadns.net
+DOMAIN,iosapps.itunes.apple.com.download.ks-cdn.com
+DOMAIN,iosapps.itunes.apple.com.m.alikunlun.net
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com.akadns.net
+DOMAIN-SUFFIX,appldnld.g.aaplimg.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com.akadns.net
+DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
+DOMAIN-SUFFIX,mesu-cdn.origin-apple.com.akadns.net
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,mesu.g.aaplimg.com
+DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,ocsp.g.aaplimg.com
+DOMAIN-SUFFIX,gg.apple.com
+DOMAIN-SUFFIX,swscan.apple.com
+# > News
+DOMAIN,gateway.icloud.com
+# > Siri
+DOMAIN,api-glb-sea.smoot.apple.com
